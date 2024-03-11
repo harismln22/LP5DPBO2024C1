@@ -41,6 +41,7 @@ sesudah dihapus
 6. Filter
 
    1. Filter nim
+      
       mencari nim 2209058
       
       ![filter nim (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/2473c64d-fd25-4db4-b9ea-77134790d7af)
@@ -51,7 +52,8 @@ sesudah dihapus
       ketika mencari nama di dalam filter nim maka tidak bisa karena tidak valid
       ![filter nim (3)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/062d7961-e1ad-4a7d-bdec-ebad5fccc6b7)
 
-   2. Filter nama
+   3. Filter nama
+      
       mencari nama arul
       
       ![filter nama (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/2106cd52-4be0-449f-8d52-e09f356d0e84)
