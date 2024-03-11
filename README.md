@@ -5,7 +5,7 @@ Saya Haris Maulana [2209058] berjanji tidak akan curang dalam Latihan 5 matkul D
 Program ini didesain membuat tabel data mahasiswa. Dirancang dengan bahasa java dengan inteelij IDE
 
 # ALUR #
-user akan diperlihatkan data data mahasiswa dan juga opsi add atau cancel, lalu user bisa menambahkan data tersebut ke kolom nim,nama dan nilai lalu klik 'add dan akan tertampil data tersebut di tabel.
+Pertama, user akan diperlihatkan data data mahasiswa dan juga opsi add, cancel dan terdapat filter. Kedua, user bisa menambahkan data tersebut ke kolom nim,nama dan nilai lalu klik 'add dan akan tertampil data tersebut di tabel. Ketiga, user juga bisa update dan delete ketika memilih salah satu data di tabel. Keempat, user bisa memakai filter untuk mencari dan nama yang mau dicari
 
 # DOKUMENTASI #
 1. Menambah data
