@@ -16,15 +16,24 @@ user akan diperlihatkan data data mahasiswa dan juga opsi add atau cancel, lalu 
 
 2. Update data
 
+memilih imam chalish untuk diubah/update
 ![Update data (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/42ea0a46-3957-40a0-a92c-636c851f031b)
+
+konfirmasi update
 ![update data (2)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/8a03f4d5-66f0-4f15-95fc-3400024a8bb0)
+
+mengubah nama imam chalish menjadi arul dan jenis kelamin menjadi perempuan
 ![update data (3)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/f74ecebd-4b6b-45e9-922b-1ad4e85fd948)
 
 4. delete data
+
+memilih data kelvin
 ![delete data (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/87c6f7ba-62ef-44c4-9355-3780e21f5345)
+
+sesudah dihapus
 ![delete data (2)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/f95dad99-56bf-4501-9c36-56d6ba872596)
 
-5. Filter
+6. Filter
 
    1. Filter nim
       
