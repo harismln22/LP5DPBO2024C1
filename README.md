@@ -27,12 +27,12 @@ user akan diperlihatkan data data mahasiswa dan juga opsi add atau cancel, lalu 
 5. Filter
 
    1. Filter nim
-
+      
       ![filter nim (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/2473c64d-fd25-4db4-b9ea-77134790d7af)
       ![filter nim (2)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/f3ebbf9b-7ac8-4fa4-af0a-253c31b60108)
       ![filter nim (3)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/062d7961-e1ad-4a7d-bdec-ebad5fccc6b7)
 
-   3. Filter nama
+   2. Filter nama
 
       ![filter nama (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/2106cd52-4be0-449f-8d52-e09f356d0e84)
       ![filter nama (2)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/4d702957-b703-4a28-bf86-2b9acccc2e5a)
