@@ -30,7 +30,7 @@ mengubah nama imam chalish menjadi arul dan jenis kelamin menjadi perempuan
 
 4. delete data
 
-memilih data kelvin
+memilih data kelvin untuk dihapus
 
 ![delete data (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/87c6f7ba-62ef-44c4-9355-3780e21f5345)
 
@@ -41,15 +41,27 @@ sesudah dihapus
 6. Filter
 
    1. Filter nim
+      mencari nim 2209058
       
       ![filter nim (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/2473c64d-fd25-4db4-b9ea-77134790d7af)
+
+      ketika ditemukan maka akan dimajukan ke list paling atas
       ![filter nim (2)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/f3ebbf9b-7ac8-4fa4-af0a-253c31b60108)
+
+      ketika mencari nama di dalam filter nim maka tidak bisa karena tidak valid
       ![filter nim (3)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/062d7961-e1ad-4a7d-bdec-ebad5fccc6b7)
 
    2. Filter nama
-
+      mencari nama arul
+      
       ![filter nama (1)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/2106cd52-4be0-449f-8d52-e09f356d0e84)
+
+      ketika ditemukan maka akan dimajukan ke list paling atas
+   
       ![filter nama (2)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/4d702957-b703-4a28-bf86-2b9acccc2e5a)
+  
+      mencari nim dalam filter nama, tidak akan bisa karena tidak valid
+
       ![filter nama (3)](https://github.com/harismln22/LP5DPBO2024C1/assets/159020670/27940bac-454e-43d0-804c-53a6b6f3f9c1)
 
 
